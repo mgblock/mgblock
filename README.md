@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to Maiya's GitHub Pages
 
-### Markdown
-
-
-# Header 1
-## Header 2
-### Header 3
-
+# I'm an MPH Student still new to GitHub and am happy you've come to my page.
